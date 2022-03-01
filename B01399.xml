@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the French declaration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01399</idno>
+            <idno type="OCLC"> 11947638</idno>
+            <idno type="STC">Wing A3410</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[62]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[5]</idno>
+            <idno type="STC">ESTC R1095</idno>
+            <idno type="EEBO-CITATION">99882616</idno>
+            <idno type="PROQUEST">ocm99882616</idno>
+            <idno type="VID">182676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182676)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[63]; A4:2[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the French declaration.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1665/6.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "The Heavens look big with wonder, and informe ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1664-1667 --  Poetry --  Early works to 1800.</term>
+               <term>Political poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182676:1" rendition="simple:additions"/>
+            <head>AN ANSWER To the French DECLARATION.</head>
+            <lg>
+               <l>THE <hi>Heavens</hi> look big with wonder, and informe</l>
+               <l>Our Expectations of ſome preſent Storm.</l>
+               <l>
+                  <hi>French, Dutch</hi> and <hi>Dane</hi> too, all at once? why then</l>
+               <l>'Tis time to ſhow that We are <hi>Engliſh</hi> Men.</l>
+               <l>They ſay, at Foot-ball Three to one is odds;</l>
+               <l>But this is nothing, for the Cauſe is Gods.</l>
+               <l>Have at' em all, we care not where we come,</l>
+               <l>Since Gracious Heaven is reconcil'd at Home,</l>
+               <l>Courage brave BRITTANS then, We do no more</l>
+               <l>But fight with thoſe whom We have beat before.</l>
+               <l>And now methinks, much better may We, ſince</l>
+               <l>We fight for ſuch an All accompliſht Prince,</l>
+               <l>Who the World's Conqueſt is as fair to get</l>
+               <l>As <hi>Alexander</hi> (like himſelf) the Great.</l>
+               <l>Talk not of Ten to One, pittiful ſtory,</l>
+               <l>Alas the odds does but encreaſe the Glory:</l>
+               <l>Beſides the <hi>Engliſh</hi> from their Anceſtrie</l>
+               <l>Derive themſelves the heirs of Victory</l>
+               <l>Where ſhould the Sons of Honour, if they die,</l>
+               <l>But in the Field, the bed of Honour lie?</l>
+               <l>The World will know, when time ſhall ſerve, we dare</l>
+               <l>Come out, and meet that <hi>Prince of Pitch and Tarre;</hi>
+               </l>
+               <l>Bring your Wind-ſelling <hi>Laplanders</hi> too, do</l>
+               <l>Sure We ſhall <hi>deal</hi> with ye, and <hi>board</hi> ye too;</l>
+               <l>And you will tell us, when this comes to paſs</l>
+               <l>Your <hi>Bergen</hi> bu's'neſs no ſuch bargain was.</l>
+               <l>
+                  <hi>Danes?</hi> We don't fear ye; come, alaſs ye know</l>
+               <l>Our Women beat ye once, and ſo may now.</l>
+               <l>Nor value we that Kingdom of <hi>Kick ſhawes,</hi>
+               </l>
+               <l>We come not to receive, but give them Lawes;</l>
+               <l>We ſhall provide 'em ſuch a <hi>Frigaze</hi>
+               </l>
+               <l>Of Legs and Armes they'l ſcarce be glad to ſee.</l>
+               <l>They now muſt underſtand with whom they cope,</l>
+               <l>A <hi>mighty Prince,</hi> and not a <hi>Myter'd Pope;</hi>
+               </l>
+               <l>One that will otherwiſe the matter handle,</l>
+               <l>With Glittering Sword, and not <hi>Bell, Book</hi> and <hi>Candle:</hi>
+               </l>
+               <l>One that ſhall Anathematize ye worſe,</l>
+               <l>Not to pronounce but execute your Curſe:</l>
+               <l>He'l bring ye <hi>Jeggerie</hi> home to your door:</l>
+               <l>Inſtead of <hi>Bulls</hi> you'l hear his Canons roar;</l>
+               <l>And I make bold to tell ye in the cloſe</l>
+               <l>Although no <hi>Popes,</hi> we'l make ye kiſs our <hi>Toes.</hi>
+               </l>
+               <l>An <hi>Engliſh</hi> Monarch <hi>(Mounſieur)</hi> no new thing,</l>
+               <l>Has ſent his Son to fetch him a <hi>French</hi> King:</l>
+               <l>If ye ſuſpect, or ſcruple our report,</l>
+               <l>Enquire at <hi>Poictiers, Creſſie, Agin-Court,</hi>
+               </l>
+               <l>That place never to be forgotten, where</l>
+               <l>The Priſoners more then we that took'em were:</l>
+               <l>The <hi>French</hi> ſhall know it too, as we advance,</l>
+               <l>'Tis We, not they, fight for the <hi>King</hi> of <hi>France.</hi>
+               </l>
+               <l>Ye boaſt of Gold and Silver, and ſuch ſtuffe,</l>
+               <l>We'l bring ye Pockets for it ſure enough.</l>
+               <l>And if we meet ye on the foaming ſource</l>
+               <l>VVe'l have a word or too of <hi>deep</hi> Diſcourſe.</l>
+            </lg>
+            <lg>
+               <l>A fig for <hi>France</hi> or any that accords</l>
+               <l>VVith thoſe <hi>Low-Country</hi> Leather-Apern <hi>Lords.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the <hi>Author,</hi> 1665/6.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
